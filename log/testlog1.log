@@ -1,0 +1,118 @@
+2021-12-15 08:52:55,044 [main] INFO eCommerce - User provided
+2021-12-15 08:52:55,107 [main] INFO eCommerce - Password provided
+2021-12-15 08:53:02,222 [main] INFO eCommerce - Login in Clicked
+2021-12-15 08:53:11,947 [main] INFO eCommerce - Login Passed
+2021-12-15 08:54:53,055 [main] INFO eCommerce - User provided
+2021-12-15 08:54:53,102 [main] INFO eCommerce - Password provided
+2021-12-15 08:55:03,094 [main] INFO eCommerce - Login in Clicked
+2021-12-15 08:55:10,696 [main] INFO eCommerce - Login Passed
+2021-12-15 12:44:09,328 [main] INFO eCommerce - User provided
+2021-12-15 12:44:09,390 [main] INFO eCommerce - Password provided
+2021-12-15 12:44:09,436 [main] INFO eCommerce - Login in Clicked
+2021-12-15 12:45:36,620 [main] INFO eCommerce - User provided
+2021-12-15 12:45:36,677 [main] INFO eCommerce - Password provided
+2021-12-15 12:45:43,969 [main] INFO eCommerce - Login in Clicked
+2021-12-15 12:45:53,274 [main] INFO eCommerce - Login Passed
+2021-12-15 13:59:50,736 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-15 13:59:50,820 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-15 13:59:57,527 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-15 14:00:04,934 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-15 14:00:31,615 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-15 14:00:31,664 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-15 14:00:37,061 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-15 14:00:44,559 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-15 14:01:29,345 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-15 14:01:29,423 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-15 14:01:35,222 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-15 14:01:42,722 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-15 14:10:07,105 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-15 14:10:07,141 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-15 14:10:12,415 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-15 14:11:55,417 [TestNG-tests-2] INFO eCommerce - User provided
+2021-12-15 14:11:55,422 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-15 14:11:55,465 [TestNG-tests-2] INFO eCommerce - Password provided
+2021-12-15 14:11:55,472 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-15 14:15:06,798 [TestNG-tests-2] INFO eCommerce - Login in Clicked
+2021-12-17 15:12:57,573 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-17 15:12:57,575 [TestNG-tests-2] INFO eCommerce - User provided
+2021-12-17 15:12:57,601 [TestNG-tests-2] INFO eCommerce - Password provided
+2021-12-17 15:12:57,602 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-17 15:13:03,792 [TestNG-tests-2] INFO eCommerce - Login in Clicked
+2021-12-17 15:15:15,575 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-17 15:15:15,635 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-17 15:15:24,738 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-17 15:15:33,453 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-17 15:58:18,279 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-17 15:58:18,284 [TestNG-tests-2] INFO eCommerce - User provided
+2021-12-17 15:58:18,306 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-17 15:58:18,309 [TestNG-tests-2] INFO eCommerce - Password provided
+2021-12-17 15:58:22,534 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-26 16:43:33,395 [TestNG-tests-2] INFO eCommerce - User provided
+2021-12-26 16:43:33,443 [TestNG-tests-2] INFO eCommerce - Password provided
+2021-12-26 16:43:38,742 [TestNG-tests-2] INFO eCommerce - Login in Clicked
+2021-12-26 16:43:38,762 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-26 16:43:38,801 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-26 16:44:50,523 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-26 16:44:50,608 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-26 16:45:43,668 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-26 16:45:53,915 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-26 16:50:22,407 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-26 16:50:22,503 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-26 16:50:48,829 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-26 16:50:58,857 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-26 16:56:46,456 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-26 16:56:46,513 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-26 16:57:12,575 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-26 16:57:27,911 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-26 17:05:57,518 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-26 17:05:57,585 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-26 17:06:55,581 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-26 17:07:08,174 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-31 17:44:46,176 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-31 17:44:46,304 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-31 17:44:46,378 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-31 17:44:55,941 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-31 17:44:56,035 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-31 17:45:01,925 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-31 17:45:03,935 [TestNG-tests-1] INFO eCommerce - Login Failed
+2021-12-31 17:55:54,746 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-31 17:55:54,891 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-31 17:56:02,310 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-31 17:56:09,910 [TestNG-tests-1] INFO eCommerce - Login Passed
+2021-12-31 17:56:18,669 [TestNG-tests-1] INFO eCommerce - User provided
+2021-12-31 17:56:18,758 [TestNG-tests-1] INFO eCommerce - Password provided
+2021-12-31 17:56:23,574 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2021-12-31 17:56:25,582 [TestNG-tests-1] INFO eCommerce - Login Failed
+2022-01-02 22:14:22,490 [TestNG-tests-1] INFO eCommerce - User name is provided
+2022-01-02 22:14:22,617 [TestNG-tests-1] INFO eCommerce - password is provided
+2022-01-02 22:14:29,431 [TestNG-tests-1] INFO eCommerce - providing customer details....
+2022-01-02 22:16:12,868 [TestNG-tests-1] INFO eCommerce - User name is provided
+2022-01-02 22:16:12,992 [TestNG-tests-1] INFO eCommerce - password is provided
+2022-01-02 22:16:19,725 [TestNG-tests-1] INFO eCommerce - providing customer details....
+2022-01-02 22:22:10,859 [TestNG-tests-1] INFO eCommerce - User provided
+2022-01-02 22:22:10,982 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-01-02 22:22:17,226 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-01-02 22:22:25,179 [TestNG-tests-1] INFO eCommerce - Login Passed
+2022-01-02 22:22:32,508 [TestNG-tests-1] INFO eCommerce - User provided
+2022-01-02 22:22:32,609 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-01-02 22:22:38,003 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-01-02 22:22:40,012 [TestNG-tests-1] INFO eCommerce - Login Failed
+2022-01-02 22:24:22,676 [TestNG-tests-1] INFO eCommerce - User name is provided
+2022-01-02 22:24:22,773 [TestNG-tests-1] INFO eCommerce - password is provided
+2022-01-02 22:24:26,186 [TestNG-tests-1] INFO eCommerce - providing customer details....
+2022-06-04 18:25:07,950 [TestNG-tests-1] INFO eCommerce - User provided
+2022-06-04 18:25:08,071 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-06-04 18:25:12,087 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-06-04 18:25:18,808 [TestNG-tests-1] INFO eCommerce - Login Passed
+2022-06-04 18:25:24,233 [TestNG-tests-1] INFO eCommerce - User provided
+2022-06-04 18:25:24,315 [TestNG-tests-1] INFO eCommerce - Password provided
+2022-06-04 18:25:28,300 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2022-06-04 18:25:30,312 [TestNG-tests-1] INFO eCommerce - Login Failed
+2024-03-24 00:33:08,406 [TestNG-tests-1] INFO eCommerce - User provided
+2024-03-24 00:33:08,498 [TestNG-tests-1] INFO eCommerce - Password provided
+2024-03-24 00:33:10,506 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2024-03-24 00:33:18,541 [TestNG-tests-1] INFO eCommerce - Login Passed
+2024-03-24 00:33:24,168 [TestNG-tests-1] INFO eCommerce - User provided
+2024-03-24 00:33:24,283 [TestNG-tests-1] INFO eCommerce - Password provided
+2024-03-24 00:33:28,078 [TestNG-tests-1] INFO eCommerce - Login in Clicked
+2024-03-24 00:33:30,103 [TestNG-tests-1] INFO eCommerce - Login Failed
